@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit Kalra</h1>
 <h3 align="center">A sophomore double majoring in Math and Electrical Engineering at BITS Pilani</h3>
 
-- 🔭 I’m currently working on **the backend for one of my college's fests**
+- 🔭 I’m currently reading **Crafting Interpreters**
 
 - 🌱 I’m currently learning **iOS development**
 
