@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanchit Kalra</h1>
 <h3 align="center">A sophomore double majoring in Math and Electrical Engineering at BITS Pilani</h3>
 
-- 🔭 I’m currently reading **Crafting Interpreters**
+<!-- - 🔭 I’m currently reading **Crafting Interpreters** -->
 
-- 🌱 I’m currently learning **iOS development**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanchitkalra?tab=repositories](https://github.com/sanchitkalra?tab=repositories)
 
