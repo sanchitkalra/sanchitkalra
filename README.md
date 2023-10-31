@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchit Kalra</h1>
-<h3 align="center">A third year student double majoring in Math and Electrical Engineering at BITS Pilani</h3>
+<h3 align="center">A fourth year student double majoring in Math and Electrical Engineering at BITS Pilani</h3>
 
 <!-- - 🔭 I’m currently reading **Crafting Interpreters** -->
 
